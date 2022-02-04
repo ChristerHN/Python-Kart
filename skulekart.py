@@ -1,8 +1,8 @@
 from turtle import *
 t = Turtle()
-t.color("Blue", "Green")
+t.color("Blue")
 t.hideturtle()
-# Importerer turtle og setter navnet til t, putter fargen oransj på turtlen. 
+# Importerer turtle og setter navnet til t, putter fargen blå på turtlen, og gjør markøren usynlig.  
 
 
 #HBygg 1 Kode
